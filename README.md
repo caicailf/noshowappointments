@@ -13,7 +13,7 @@ A person makes a doctor appointment, receives all the instructions and no-show. 
 
 * PatientId - Identification of a patient
 * AppointmentID - Identification of each appointment 
-* Gender = Male or Female . Female is the greater proportion, woman takes way more care of they health in comparison to man. * * AppointmentDay = The day of the actuall appointment, when they have to visit the doctor.
+* Gender = Male or Female . Female is the greater proportion, woman takes way more care of they health in comparison to man.  * AppointmentDay = The day of the actuall appointment, when they have to visit the doctor.
 * ScheduledDay = The day someone called or registered the appointment, this is before appointment of course. 
 * Age = How old is the patient. 
 * Neighbourhood = Where the appointment takes place. 
